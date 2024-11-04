@@ -1,5 +1,56 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zora Neale Hurston walks in the room and introduces herself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "65e2d010-12fe-4213-9e2f-7da851204bb0"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hello, my name is Zora Neale Hurston."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "940018a4-3c98-4c36-a4eb-5ddbe1535e8d"
+    }
+  ],
   "set": "Default",
   "event_id": "c3356e4a-4dcf-44de-8cd6-a10f9967b5d3",
   "source_id": "b0a99e9b-8b48-4d53-801e-03a7b83d81f8"

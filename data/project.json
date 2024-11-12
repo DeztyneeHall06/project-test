@@ -13,7 +13,7 @@
     "language": "en",
     "slug": "project-test",
     "creator": "DeztyneeHall06",
-    "authors": "Naponi Gore",
+    "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -164,6 +164,8 @@
       ]
     },
     "created_at": "2024-11-04T20:29:05.050Z",
-    "updated_at": "2024-11-04T20:31:56.049Z"
-  }
+    "updated_at": "2024-11-12T19:46:43.008Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
